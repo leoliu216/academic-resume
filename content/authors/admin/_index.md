@@ -25,8 +25,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Oklahoma State University
+    url: https://go.okstate.edu/
 education:
   courses:
     - course: PhD in Artificial Intelligence
