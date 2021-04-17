@@ -1,6 +1,6 @@
 ---
 title: Wenyao Liu
-role: Ph.D Student in Transportation Engineer
+role: Ph.D. Student in Civil & Transportation Engineering
 avatar_filename: 微信截图_20201012101544.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
