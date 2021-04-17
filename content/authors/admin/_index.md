@@ -42,9 +42,8 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Wenyao Liu is a Ph.D. student in the School of Civil and Environmental Engineering of Oklahoma State University (OSU). He has been working in the civil and transportation field for five years. His research interests include pavement materials, cracking mechanisms, transportation management, and roadway safety. 
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
