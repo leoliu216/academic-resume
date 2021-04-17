@@ -46,4 +46,4 @@ Wenyao Liu is a Ph.D. student in the School of Civil and Environmental Engineeri
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Wenyao.pdf" "newtab" >}}resumé{{< /staticref >}}.
