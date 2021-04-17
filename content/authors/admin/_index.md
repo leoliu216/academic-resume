@@ -44,4 +44,4 @@ highlight_name: false
 ---
 Wenyao Liu is a Ph.D. student in the School of Civil and Environmental Engineering of Oklahoma State University (OSU). He has been working in the civil and transportation field for five years. His research interests include pavement materials, cracking mechanisms, transportation management, and roadway safety. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "../assets/media/CV_Wenyao.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "../media/CV_Wenyao.pdf" "newtab" >}}resumé{{< /staticref >}}.
