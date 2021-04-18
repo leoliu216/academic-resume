@@ -5,9 +5,9 @@ avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
+  - Roadway Safety
   - Pavement Materials
   - Transportation Management
-  - Roadway Safety
 social:
   - icon: envelope
     icon_pack: fas
